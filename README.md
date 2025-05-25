@@ -7,6 +7,7 @@
 Add your name, today's date, and emoji of choice, and create a pull request to show off your Git skills!
 
 ---
+Headshot here, made myself vulnarable on 25/5/2025 🩻
 
 <!--  Ellie is the first entry 🥳  -->
 
